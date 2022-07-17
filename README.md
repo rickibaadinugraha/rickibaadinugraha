@@ -1,4 +1,4 @@
-### -                                                     👋 Assamuallaikum,I'm Ricki B Nugraha :)
+<p align="center">👋 Assamuallaikum,I'm Ricki B Nugraha :) </p>
 
 
 
