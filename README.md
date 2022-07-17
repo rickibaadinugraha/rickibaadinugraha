@@ -1,4 +1,5 @@
-### - 👋 Assamuallaikum,I'm Ricki B Nugraha :)
+### -                                                     👋 Assamuallaikum,I'm Ricki B Nugraha :)
+
 
 
 - 🌱 I’m currently learning Laravel,Flutter
