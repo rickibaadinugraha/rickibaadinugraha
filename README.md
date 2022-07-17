@@ -1,4 +1,4 @@
-<p align="center" width="600" height="200">👋 Assamuallaikum,I'm Ricki B Nugraha :) </p>
+<p align="center" font size =10>👋 Assamuallaikum,I'm Ricki B Nugraha :) </p>
 
 
 
